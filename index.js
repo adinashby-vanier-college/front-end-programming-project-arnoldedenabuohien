@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const text = `Hello! Contact john wick . 
+    const text = `Hello! Contact john wicK . 
 Hi, I am a software engineer graduated from vanier college I specialize in front-end programming with HTML, CSS, and JavaScript. 
 [Contact me to see more of my works.]
 My journey started with [learning basic programming concepts and HTML]. 
